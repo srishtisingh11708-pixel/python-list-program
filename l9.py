@@ -1,4 +1,9 @@
-list=[0]*5
-for i in range(1,5):
-    list[i]=(i-1)*10
-print(list)
+name=["anshu","riya","anuj","shreya"]
+search=input("enter name")
+#name:srishti singh
+#rollnumber:72
+#assignement no:9
+if search in name:
+    print(name.index(search))
+else:
+    print("name not found")
