@@ -1,3 +1,6 @@
+#name :srishti singh
+#rollno:72
+#assignment number:10
 marks=[78,35,90,40,55]
 count=0
 total=0
