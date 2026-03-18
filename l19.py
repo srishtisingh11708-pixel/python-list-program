@@ -1,3 +1,6 @@
+#name:srishti singh
+#rollnumber:72
+#assignement no:19
 attendence=[1,1,0,1,0,1,1]
 present=attendence.count(1)
 absent=attendence.count(0)
