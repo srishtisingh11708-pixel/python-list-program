@@ -1,3 +1,6 @@
+#name:srishti singh
+#rollnumber:72
+#assignement no:13
 ages=[10,23,45,60,34]
 minor=[]
 adults=[]
